@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.lt.apllication","l":"AdminApplication"},{"l":"All Classes","url":"allclasses-index.html"}]
